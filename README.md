@@ -28,7 +28,7 @@ I started my professional journey as an electrician, working with electrical sys
 - Front-end: ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white), ![React-Native](https://img.shields.io/badge/React--Native-61DAFB?logo=react&logoColor=white), ![HTML](https://img.shields.io/badge/HTML-orange?logo=html5&logoColor=white), ![CSS](https://img.shields.io/badge/CSS-blueviolet?logo=css3&logoColor=white)
 - Back-end: ![Node.js](https://img.shields.io/badge/Node.js-brightgreen?logo=node.js&logoColor=white), ![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white&style=flat-square), ![Prisma](https://img.shields.io/badge/Prisma-yellowgreen?logo=prisma&logoColor=white), ![Knex.js](https://img.shields.io/badge/Knex.js-red?logo=knex.js&logoColor=white)
 - Database: ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-blueviolet?logo=postgresql&logoColor=white)
-- Tools: ![Expo](https://img.shields.io/badge/Expo-4630EB?logo=expo&logoColor=white), ![Google Play Console](https://img.shields.io/badge/Google%20Play%20Console-green?logo=google-play&logoColor=white)
+- Tools: ![Expo](https://img.shields.io/badge/Expo-4630EB?logo=expo&logoColor=white), ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat-square), ![Google Play Console](https://img.shields.io/badge/Google%20Play%20Console-green?logo=google-play&logoColor=white)
 - Version Control: ![Git](https://img.shields.io/badge/Git-black?logo=git&logoColor=white)
 
 ## Current Project: Nourish
