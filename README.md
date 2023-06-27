@@ -14,10 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I'm
+
 # shonancanuck
 
-Hey there! Welcome to my GitHub profile. I'm shonancanuck, a former electrician turned software developer. I'm passionate about building innovative applications and solving problems with code. Here's a little about me and what I do:
+Welcome to my GitHub profile. I'm shonancanuck, a former electrician turned software developer. I'm passionate about building innovative applications and solving problems with code. Here's a little about me and what I do:
 
 ## Background ⚡
 
