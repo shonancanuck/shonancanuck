@@ -24,16 +24,7 @@ I started my professional journey as an electrician, working with electrical sys
 
 ## Skills
 
-- ![TypeScript](https://img.icons8.com/color/48/000000/typescript.png) 
-- ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png) 
-- ![Python](https://img.icons8.com/color/48/000000/python.png) 
-- ![HTML5](https://img.icons8.com/color/48/000000/html-5.png) 
-- ![CSS3](https://img.icons8.com/color/48/000000/css3.png) 
-- ![React](https://img.icons8.com/color/48/000000/react-native.png)
-- ![React Native](https://img.icons8.com/color/48/000000/react-native.png) 
-- ![Node.js](https://img.icons8.com/color/48/000000/nodejs.png) 
-- ![PostgreSQL](https://img.icons8.com/color/48/000000/postgresql.png) 
-- ![Knex.js](https://img.icons8.com/color/48/000000/javascript.png) ![Prisma](https://img.icons8.com/color/48/000000/atom-editor.png)
+![TypeScript](https://img.icons8.com/color/48/000000/typescript.png) ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png) ![Python](https://img.icons8.com/color/48/000000/python.png) ![HTML5](https://img.icons8.com/color/48/000000/html-5.png) ![CSS3](https://img.icons8.com/color/48/000000/css3.png) ![React](https://img.icons8.com/color/48/000000/react-native.png) ![React Native](https://img.icons8.com/color/48/000000/react-native.png) ![Node.js](https://img.icons8.com/color/48/000000/nodejs.png) ![PostgreSQL](https://img.icons8.com/color/48/000000/postgresql.png) ![Knex.js](https://img.icons8.com/color/48/000000/javascript.png) ![Prisma](https://img.icons8.com/color/48/000000/atom-editor.png)
 
 ## Current Project: Nourish
 
