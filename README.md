@@ -24,7 +24,7 @@ I started my professional journey as an electrician, working with electrical sys
 
 ## Skills
 
-- Programming Languages: ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?&logo=typescript&logoColor=white), ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=white&style=for-the-badge), ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
+- Programming Languages: ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?&logo=typescript&logoColor=white), ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=323330&style=flat-square), ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square)
 - Front-end: ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white), ![React-Native](https://img.shields.io/badge/React--Native-61DAFB?logo=react&logoColor=white), ![HTML](https://img.shields.io/badge/HTML-orange?logo=html5&logoColor=white), ![CSS](https://img.shields.io/badge/CSS-blueviolet?logo=css3&logoColor=white)
 - Back-end: ![Node.js](https://img.shields.io/badge/Node.js-brightgreen?logo=node.js&logoColor=white), ![Prisma](https://img.shields.io/badge/Prisma-yellowgreen?logo=prisma&logoColor=white), ![Knex.js](https://img.shields.io/badge/Knex.js-red?logo=knex.js&logoColor=white)
 - Database: ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-blueviolet?logo=postgresql&logoColor=white)
