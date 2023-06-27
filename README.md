@@ -24,7 +24,12 @@ I started my professional journey as an electrician, working with electrical sys
 
 ## Skills
 
-![TypeScript](https://img.icons8.com/color/48/000000/typescript.png) ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png) ![Python](https://img.icons8.com/color/48/000000/python.png) ![HTML5](https://img.icons8.com/color/48/000000/html-5.png) ![CSS3](https://img.icons8.com/color/48/000000/css3.png) ![React](https://img.icons8.com/color/48/000000/react-native.png) ![React Native](https://img.icons8.com/color/48/000000/react-native.png) ![Node.js](https://img.icons8.com/color/48/000000/nodejs.png) ![PostgreSQL](https://img.icons8.com/color/48/000000/postgresql.png) ![Knex.js](https://img.icons8.com/color/48/000000/javascript.png) ![Prisma](https://img.icons8.com/color/48/000000/atom-editor.png)
+- Programming Languages: ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?&logo=typescript&logoColor=white)
+- Front-end: ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white), ![React-Native](https://img.shields.io/badge/React--Native-61DAFB?logo=react&logoColor=white), ![HTML](https://img.shields.io/badge/HTML-orange?logo=html5&logoColor=white), ![CSS](https://img.shields.io/badge/CSS-blueviolet?logo=css3&logoColor=white)
+- Back-end: ![Node.js](https://img.shields.io/badge/Node.js-brightgreen?logo=node.js&logoColor=white), ![Prisma](https://img.shields.io/badge/Prisma-yellowgreen?logo=prisma&logoColor=white), ![Knex.js](https://img.shields.io/badge/Knex.js-red?logo=knex.js&logoColor=white)
+- Database: ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-blueviolet?logo=postgresql&logoColor=white)
+- Tools: ![Expo](https://img.shields.io/badge/Expo-4630EB?logo=expo&logoColor=white), ![Google Play Console](https://img.shields.io/badge/Google%20Play%20Console-green?logo=google-play&logoColor=white)
+- Version Control: ![Git](https://img.shields.io/badge/Git-black?logo=git&logoColor=white)
 
 ## Current Project: Nourish
 
