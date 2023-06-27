@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello! 👋
 
 <!--
 **shonancanuck/shonancanuck** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 Hey there! Welcome to my GitHub profile. I'm shonancanuck, a former electrician turned software developer. I'm passionate about building innovative applications and solving problems with code. Here's a little about me and what I do:
 
-## Background
+## Background ⚡
 
 I started my professional journey as an electrician, working with electrical systems and wiring. However, my fascination with technology and software led me to explore the world of programming. I made the transition to software development and have been enjoying every bit of it since then.
 
