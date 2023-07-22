@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 # shonancanuck
 
-Welcome to my GitHub profile. I'm shonancanuck, a former electrician turned software developer. I'm passionate about building innovative applications and solving problems with code. Here's a little about me and what I do:
+Welcome to my GitHub profile. I'm Sean, a former electrician turned software developer. I'm passionate about building innovative applications and solving problems with code. Here's a little about me and what I do:
 
 ## Background ⚡
 
@@ -38,9 +38,8 @@ I'm currently working on an exciting mobile skincare app called Nourish. This ap
 
 ## Contact
 
-I'm always open to collaboration, learning opportunities, and connecting with fellow developers. You can reach me through the following channels:
+I'm always open to collaboration, learning opportunities, and connecting with fellow developers. Here's how you can reach me:
 
-- GitHub: [shonancanuck](https://github.com/shonancanuck)
 - LinkedIn: [Sean McKay](https://www.linkedin.com/in/sean-mckay-software-engineer/)
 
 Feel free to drop me a message if you have any questions or just want to say hello.
