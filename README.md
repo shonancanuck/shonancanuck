@@ -32,10 +32,6 @@ I started my professional journey as an electrician, working with electrical sys
 - Tools: ![Expo](https://img.shields.io/badge/Expo-4630EB?logo=expo&logoColor=white), ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat-square), ![Google Play Console](https://img.shields.io/badge/Google%20Play%20Console-green?logo=google-play&logoColor=white)
 - Version Control: ![Git](https://img.shields.io/badge/Git-black?logo=git&logoColor=white)
 
-## Current Project: Nourish
-
-I'm currently working on an exciting mobile skincare app called Nourish. This app aims to provide users with a personalized skincare experience. It will offer features like product recommendations, skin health tracking, and routines tailored to individual needs.
-
 ## Contact
 
 I'm always open to collaboration, learning opportunities, and connecting with fellow developers. Here's how you can reach me:
