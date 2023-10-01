@@ -21,7 +21,7 @@ Welcome to my GitHub profile. I'm Sean, a former electrician turned software dev
 
 ## Background ⚡
 
-I started my professional journey as an electrician, working with electrical systems and wiring. However, my fascination with technology and software led me to explore the world of programming. I made the transition to software development and have been enjoying every bit of it since then.
+I started my professional journey as an electrician, working with electrical systems and wiring. This is also where I got my introduction to programming, with PLCs. I often worked closely with technicians to essentially pair program, test and verify fire alarm systems for occupation (essentially a production environment). I also worked with network engineers to build and test complex network infrastructure and hardware. Designing, building, testing and troubleshooting was a huge part of what I did for many years in that trade. After immigrating to Japan, I was seeking a way to put these skills to work and began to explore the wider world of programming. I made the transition to software development and have been enjoying every bit of it since then.
 
 ## Skills
 
